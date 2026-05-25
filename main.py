@@ -4,7 +4,7 @@ from CafeGenerator import CafeGenerator
 from CafeReports import CafeReports
 
 
-print("===== PROJECT BOARD =====")
+print("===== CafeAnalytics =====")
 
 board = CafeAnalytics("cafes.csv")
 
