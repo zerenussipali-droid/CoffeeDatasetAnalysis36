@@ -27,4 +27,4 @@ data = [cafe.to_dict() for cafe in cafes]
 df = pd.DataFrame(data)
 df.to_csv("cafes.csv", index=False)
 
-print("cafes.csv file created successfully!")
+print("cafes.csv file created")
